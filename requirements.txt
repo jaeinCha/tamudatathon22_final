@@ -1,5 +1,4 @@
 dash
-dash.Dash
 dash.dcc
 dash.html
 dash.Input
