@@ -9,7 +9,5 @@ dash_cytoscape
 dash_bootstrap_components
 pandas
 numpy
-json
 plotly.graph_objects
 urllib.request
-urlopen
