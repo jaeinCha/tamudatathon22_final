@@ -1,9 +1,4 @@
 dash
-Dash
-dcc
-html
-Input
-Output
 plotly.express
 dash_cytoscape
 dash_bootstrap_components
