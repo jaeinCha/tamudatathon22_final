@@ -1,9 +1,15 @@
-from dash import Dash, dcc, html, Input, Output
-from dash import html
-import plotly.express as px
-import dash_cytoscape as cyto
-import dash_bootstrap_components as dbc
-import pandas as pd
-import numpy as np, json
-import plotly.graph_objects as go
-from urllib.request import urlopen
+dash
+Dash
+dcc
+html
+Input
+Output
+plotly.express
+dash_cytoscape
+dash_bootstrap_components
+pandas
+numpy
+json
+plotly.graph_objects
+urllib.request
+urlopen
