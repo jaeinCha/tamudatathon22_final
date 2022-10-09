@@ -1,11 +1,8 @@
 dash
-dash.dcc
-dash.html
-dash.Input
-dash.Output
 plotly.express
 dash_cytoscape
 dash_bootstrap_components
 pandas
 numpy
 matplotlib
+plotly
