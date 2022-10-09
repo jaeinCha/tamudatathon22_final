@@ -4,5 +4,5 @@ dash_cytoscape
 dash_bootstrap_components
 pandas
 numpy
-plotly.graph_objects
+matplotlib.plotly.graph_objects
 urllib.request
